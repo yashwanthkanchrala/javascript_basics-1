@@ -1,4 +1,3 @@
-/*
 let js = "amazing";
 console.log("jonas");
 
@@ -6,7 +5,7 @@ let firstName = "kancharla";
 console.log(firstName);
 console.log(firstName);
 console.log(firstName);
-*/
+
 true;
 let javascriptIsFun = true;
 console.log(typeof javascriptIsFun);
