@@ -13,7 +13,7 @@ console.log(typeof javascriptIsFun);
 console.log(typeof 23);
 console.log(typeof "yashwanth");
 javascriptIsFun = "yes";
-console.log(typeof javascriptIsHun);
+console.log(typeof javascriptIsFun);
 
 let year;
 console.log(year);
